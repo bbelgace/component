@@ -3,7 +3,7 @@ import React from "react";
 const ProfilePhoto = () => {
   return (
     <div>
-      <img src="./public/imge.jpg" alt="img" />
+      <img src="/image.jpg" alt="img" />
     </div>
   );
 };
